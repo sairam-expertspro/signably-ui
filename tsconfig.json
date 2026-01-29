@@ -28,11 +28,7 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
-    "**/*.mts"
-<<<<<<< HEAD
-, "next.config.mjs", "next.config.js"  ],
-=======
-, "next.config.mjs"  ],
->>>>>>> 4969cfff6f44efb3cef1e3a60f950a7390f3dcdd
+    "**/*.mts", 
+    "next.config.mjs", "next.config.js"  ],
   "exclude": ["node_modules"]
 }
